@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jnavarro\\Downloads\\NET Tech Exam\\TechExam1\\TechExam1\\TechExam1.csproj": {}
+    "C:\\Sprout.Exam.WebApp\\MyExams\\TechExam1\\TechExam1\\TechExam1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jnavarro\\Downloads\\NET Tech Exam\\TechExam1\\TechExam1\\TechExam1.csproj": {
+    "C:\\Sprout.Exam.WebApp\\MyExams\\TechExam1\\TechExam1\\TechExam1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jnavarro\\Downloads\\NET Tech Exam\\TechExam1\\TechExam1\\TechExam1.csproj",
+        "projectUniqueName": "C:\\Sprout.Exam.WebApp\\MyExams\\TechExam1\\TechExam1\\TechExam1.csproj",
         "projectName": "TechExam1",
-        "projectPath": "C:\\Users\\jnavarro\\Downloads\\NET Tech Exam\\TechExam1\\TechExam1\\TechExam1.csproj",
+        "projectPath": "C:\\Sprout.Exam.WebApp\\MyExams\\TechExam1\\TechExam1\\TechExam1.csproj",
         "packagesPath": "C:\\Users\\jnavarro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jnavarro\\Downloads\\NET Tech Exam\\TechExam1\\TechExam1\\obj\\",
+        "outputPath": "C:\\Sprout.Exam.WebApp\\MyExams\\TechExam1\\TechExam1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
